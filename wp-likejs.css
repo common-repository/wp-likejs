@@ -1,0 +1,26 @@
+#likejsbox{ display:none; position:fixed; z-index:9999; bottom:0px; right:10px; padding:5px; width:300px; background:#f1f1f1; overflow:hidden; -webkit-box-shadow: 0px 0px 3px 0px #666;box-shadow: 0px 0px 3px 0px #666; }
+	#likejsbox .header{ font-size:12px; margin: 0 0 3px; font-weight: 600; text-align:center; border: medium none; height: 21px;left: -5px;padding: 5px 10px;position: relative;top: -5px; width: 290px; background:#4A67A3; color:#fff; }
+	#likejsbox p{ margin:5px; }
+	#likejsbox #close{ cursor:pointer; position:absolute; top:6px; right:12px; }
+#relikejsbox{ cursor:pointer; display:none; position:fixed; z-index:9999; bottom:20px; right:20px; -webkit-box-shadow: 0px 0px 3px 0px #666;box-shadow: 0px 0px 3px 0px #666; }
+	#relikejsbox img{ display:block; }
+.likejsbacklink{ font-size:10px; position:absolute; right:12px; bottom:0px; color:#666666; }		
+	.likejsbacklink a, .likejsbacklink a:visited{ font-size:10px; color:#4A67A3; }			
+		.likejsbacklink a:hover{ color:#6C86BC; }	
+
+
+/*  Copyright 2012 Dennis Niedernhoefer, Merlin Roth
+ 
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as
+    published by the Free Software Foundation.
+ 
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+ 
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+*/
